@@ -1,0 +1,10 @@
+{
+  "api_key": "thisisasecretkey!@#$",
+  "server_key": "thisisasecretkey!@#$",
+  "api_base_url": {
+    "financial": "http://127.0.0.1:5000/api/v1",
+    "account": "http://localhost:8081/api/v1",
+    "authentication": "http://localhost:8081/api/v1"
+  },
+  "debug_mode": true
+}
